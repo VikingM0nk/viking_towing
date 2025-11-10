@@ -28,7 +28,7 @@ A modular, ox_target-powered towing system for FiveM with support for:
 📁 Installation
 - Download or clone this resource into your [qb] folder:
 cd resources/[qb]
-https://github.com/VikingM0nk/towing
+https://github.com/VikingM0nk/viking_towing
 
 
 - Ensure dependencies are started before this resource in your server.cfg:
