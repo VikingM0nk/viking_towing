@@ -86,3 +86,6 @@ Config.TowVehicles = {
 
 📜 License
 MIT License. Use freely, modify responsibly, and credit when possible.
+
+thank you to glitchdetector for the original script for the flatbed to work
+https://github.com/glitchdetector/fivem-functional-flatbed
